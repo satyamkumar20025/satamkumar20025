@@ -13,6 +13,6 @@
 🌱 Currently Learning
 
 
-#- Advanced Java concepts & backend development
-#- Frontend frameworks like Angular & React
-#- Database design and optimization with MySQL
+- Advanced Java concepts & backend development
+- Frontend frameworks like Angular & React
+- Database design and optimization with MySQL
