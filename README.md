@@ -1,6 +1,14 @@
-
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">A passionate Java Developer</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+
+---
+
+### 🌟 About Me  
+- 🌱 I’m currently learning *Full Stack Development (MERN & Java Full Stack)*  
+- 💡 I enjoy solving problems on *HackerRank* and exploring new technologies  
+- 💻 I love working with *Java, Python, and modern web frameworks*  
+- 🎯 My goal is to become a *skilled software developer* and contribute to open-source projects  
+- ⚡ Fun fact: I believe code + creativity = innovation!  
 
 ---
 
@@ -24,11 +32,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
----# ✅ ### 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats
 ![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar20025&layout=compact&theme=radical)
 
+---
 
+### 💬 Let's Connect & Collaborate
+If you want to collaborate on any project or discuss tech ideas, feel free to reach out!
 
+📫 *Email:* satyamkumar@example.com (replace with your real email)  
+💼 *GitHub:* [satyamkumar20025](https://github.com/satyamkumar20025)  
+🏆 *HackerRank:* [Profile Link](https://www.hackerrank.com/)  
 
-⭐ *"Keep learning, keep building, and keep growing!"*
+---
+
+⭐ *“Code, Learn, and Grow — Every Day is a New Opportunity!”*
