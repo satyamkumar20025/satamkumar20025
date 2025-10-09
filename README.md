@@ -1,6 +1,3 @@
-# ✅ ### 📊 GitHub Stats
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar20025&layout=compact&theme=radical)
 
 ---(Java Developer)
 
@@ -45,7 +42,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
----
+---# ✅ ### 📊 GitHub Stats
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar20025&layout=compact&theme=radical)
+
 
 
 
