@@ -1,4 +1,8 @@
-# ✅ Satam Kumar(Java Developer)
+# ✅ ### 📊 GitHub Stats
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar20025&layout=compact&theme=radical)
+
+---(Java Developer)
 
 🙋‍♂ Hi, I'm Satyam
 
@@ -43,10 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar20025&layout=compact&theme=radical)
 
----
 
 ⭐ *"Keep learning, keep building, and keep growing!"*
