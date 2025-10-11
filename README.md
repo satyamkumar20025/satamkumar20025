@@ -43,7 +43,7 @@
 ### 💬 Let's Connect & Collaborate
 If you want to collaborate on any project or discuss tech ideas, feel free to reach out!
 
-📫 *Email:* satyamkumar@example.com (replace with your real email)  
+📫 *Email:* satyamkumar6372@Email.com (replace with your real email)  
 💼 *GitHub:* [satyamkumar20025](https://github.com/satyamkumar20025)  
 🏆 *HackerRank:* [Profile Link](https://www.hackerrank.com/)  
 
