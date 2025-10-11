@@ -45,7 +45,7 @@ If you want to collaborate on any project or discuss tech ideas, feel free to re
 
 📫 *Email:* satyamkumar6372@Email.com (replace with your real email)  
 💼 *GitHub:* [satyamkumar20025](https://github.com/satyamkumar20025)  
-🏆 *HackerRank:* [SatyamKumar20025](https://www.hackerrank.com/)  
+🏆 *HackerRank:* [https://www.hackerrank.com/profile/satyamkumar6372](https://www.hackerrank.com/)  
 
 ---
 
