@@ -1,52 +1,70 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Problem Solver</h3>
 
----
-
-### 🌟 About Me  
-- 🌱 I’m currently learning *Full Stack Development (MERN & Java Full Stack)*  
-- 💡 I enjoy solving problems on *HackerRank* and exploring new technologies  
-- 💻 I love working with *Java, Python, and modern web frameworks*  
-- 🎯 My goal is to become a *skilled software developer* and contribute to open-source projects  
-- ⚡ Fun fact: I believe code + creativity = innovation!  
-
----
-
-### 🌐 Connect with Me
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/satyamkumar20025)
-
----
-
-### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyamkumar20025&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumar20025" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar20025&layout=compact&theme=radical)
+### 🧠 About Me  
+- 🔭 Currently learning *MERN Stack* and *Java Full Stack Development*  
+- 🧩 Passionate about solving coding challenges on **HackerRank**  
+- 💬 Fluent in *Java, Python, C++, and JavaScript*  
+- 🌱 Always building projects that solve real-world problems  
+- 🎯 Goal: To become a top-tier developer and contribute to impactful open-source projects  
+- 🧪 Fun Fact: I believe **logic + creativity = innovation**
 
 ---
 
-### 💬 Let's Connect & Collaborate
-If you want to collaborate on any project or discuss tech ideas, feel free to reach out!
-
-📫 *Email:* satyamkumar6372@Email.com (replace with your real email)  
-💼 *GitHub:* [satyamkumar20025](https://github.com/satyamkumar20025)  
-🏆 *HackerRank:* [https://www.hackerrank.com/profile/satyamkumar6372](https://www.hackerrank.com/)  
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://github.com/satyamkumar20025" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.hackerrank.com/satyamkumar20025" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐ *“Code, Learn, and Grow — Every Day is a New Opportunity!”*
+### 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=satyamkumar20025&theme=radical&row=2&column=3)](https://github.com/satyamkumar20025)
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar20025&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📂 Featured Projects  
+🚧 *Coming soon...*  
+Want to collaborate? Let’s build something awesome together!
+
+---
+
+### 📫 Contact Me  
+- 📧 Email: satyamkumar6372@gmail.com  
+- 💼 GitHub: [satyamkumar20025](https://github.com/satyamkumar20025)  
+- 🏆 HackerRank: [satyamkumar20025](https://www.hackerrank.com/satyamkumar20025)
+
+---
+
+> ⭐ *“Code, Learn, and Grow — Every Day is a New Opportunity!”*
