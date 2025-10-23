@@ -22,10 +22,10 @@
   <a href="https://github.com/satyamkumar20025" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.hackerrank.com/profile/satyamkumar20025" target="_blank">
+  <a href="https://www.hackerrank.com/profile/satyamkumar6372" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://www.codingninjas.com/studio/profile/satyamkumar20025" target="_blank">
+  <a href="https://codestudio-infra.codingninjas.com/studio/profile/edit" target="_blank">
     <img src="https://img.shields.io/badge/CodeStudio-00C4CC?style=for-the-badge&logo=codingninjas&logoColor=white" />
   </a>
 </p>
