@@ -50,10 +50,9 @@
 </p>
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyamkumar20025&theme=radical&row=2&column=3" />
-</p>
+![GitHub Trophies](https://trophygh.kolioaris.xyz/?username=satyamkumar20025&theme=radical&row=2&column=3)
 
+---
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=tokyonight" />
