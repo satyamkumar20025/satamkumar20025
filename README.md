@@ -22,10 +22,10 @@
   <a href="https://github.com/satyamkumar20025" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.hackerrank.com/profile/satyamkumar6372" target="_blank">
+  <a href="https://www.hackerrank.com/profile/satyamkumar20025" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://codestudio-infra.codingninjas.com/studio/profile/edit" target="_blank">
+  <a href="https://www.codingninjas.com/studio/profile/satyamkumar20025" target="_blank">
     <img src="https://img.shields.io/badge/CodeStudio-00C4CC?style=for-the-badge&logo=codingninjas&logoColor=white" />
   </a>
 </p>
@@ -44,13 +44,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" />
 </p>
 
+---
+
 ### 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=satyamkumar20025&theme=algolia&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyamkumar20025&theme=radical&row=2&column=3" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=tokyonight" />
