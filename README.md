@@ -50,8 +50,7 @@
 </p>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SatyamKumar-2002&theme=algolia&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=satyamkumar20025&theme=algolia&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamkumar20025&show_icons=true&theme=tokyonight" />
