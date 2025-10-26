@@ -28,6 +28,9 @@
   <a href="https://www.codingninjas.com/studio/profile/satyamkumar20025" target="_blank">
     <img src="https://img.shields.io/badge/CodeStudio-00C4CC?style=for-the-badge&logo=codingninjas&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/satyamkumar20025/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
