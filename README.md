@@ -20,18 +20,19 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/satyamkumar20025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
-  <a href="https://www.hackerrank.com/profile/satyamkumar20025" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/satyamkumar6372" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
   </a>
-  <a href="https://www.codingninjas.com/studio/profile/satyamkumar20025" target="_blank">
-    <img src="https://img.shields.io/badge/CodeStudio-00C4CC?style=for-the-badge&logo=codingninjas&logoColor=white" />
+  <a href="https://codestudio-infra.codingninjas.com/studio/profile/Satyam365369" target="_blank">
+    <img src="https://img.shields.io/badge/CodeStudio-00C4CC?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio Badge" />
   </a>
   <a href="https://leetcode.com/u/satyamkumar20025/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   </a>
 </p>
+
 
 ---
 
@@ -81,24 +82,11 @@
 
 ---
 
-### 📂 Featured Projects
-<details>
-  <summary>🚀 Click to expand</summary>
-  
-  - 🔗 [Project 1](#) – Short description here  
-  - 🔗 [Project 2](#) – Short description here  
-  - 🔗 [Project 3](#) – Short description here  
-
-</details>
 
 ---
 
 ### 📫 Contact Me
 - 📧 Email: **satyamkumar6372@gmail.com**  
-- 💼 GitHub: [satyamkumar20025](https://github.com/satyamkumar20025)  
-- 🏆 HackerRank: [satyamkumar20025](https://www.hackerrank.com/profile/satyamkumar20025)  
-- 🥷 CodeStudio: [satyamkumar20025](https://www.codingninjas.com/studio/profile/satyamkumar20025)  
 
----
 
 ⭐ *“Code, Learn, and Grow — Every Day is a New Opportunity!”*
