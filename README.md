@@ -8,12 +8,11 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently learning *MERN Stack* and *Java Full Stack Development*  
+- 🔭 Currently learning ****Java Full Stack Development****  
 - 🧩 Passionate about AI and ML
--  
-- 
-- 🎯 Goal: To become a top-tier developer and contribute to impactful open-source projects  
-- 🧪 Fun Fact: I believe **logic + creativity = innovation**
+ 
+###- 🎯 Goal: To become a top-tier developer and contribute to impactful open-source projects  
+
 
 ---
 
