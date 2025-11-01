@@ -9,9 +9,9 @@
 
 ### 🧠 About Me
 - 🔭 Currently learning *MERN Stack* and *Java Full Stack Development*  
-- 🧩 Passionate about solving coding challenges on **HackerRank**  
-- 💬 Fluent in *Java, Python, C++, and JavaScript*  
-- 🌱 Always building projects that solve real-world problems  
+- 🧩 Passionate about AI and ML
+-  
+- 
 - 🎯 Goal: To become a top-tier developer and contribute to impactful open-source projects  
 - 🧪 Fun Fact: I believe **logic + creativity = innovation**
 
